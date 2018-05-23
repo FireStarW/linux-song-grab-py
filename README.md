@@ -8,4 +8,4 @@ Run this script with:
 
         $ python3 linux-song-grab.py
   
-It will output the song title, artist, album, and year to both individual text files and a oneliner text file, along with the album art to its base directory.
+From the first opened media player, it will output the song title, artist, album, and year to both individual text files and a oneliner text file, along with the album art to its base directory.
